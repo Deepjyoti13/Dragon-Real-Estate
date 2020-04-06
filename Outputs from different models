@@ -1,0 +1,16 @@
+Outputs from different models:
+
+1. Descision Tree Regressor:
+    Scores:  [3.75563774 5.21070835 4.28890328 6.20010952 3.48005029]
+    Mean:  4.587081834091013
+    Standard Deviation:  0.9996496301978527
+    
+2 .Linear Regressor:
+    Scores:  [4.17008352 4.68744811 5.00864388 6.35542509 5.27882097]
+    Mean:  5.100084313600459
+    Standard Deviation:  0.7281976004130719
+    
+3. Random Forest Regressor:
+    Scores:  [2.70416051 3.99037955 3.02127678 3.9795312  3.15028807]
+    Mean:  3.369127219946789
+    Standard Deviation:  0.5233772454554451
